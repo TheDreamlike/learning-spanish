@@ -14,3 +14,17 @@
 12. Yes =>	Sí
 13. No =>	No
 14. I'm sorry =>	Lo siento
+
+
+# Numbers 1-10:
+
+One => Uno
+Two => Dos
+Three => Tres
+Four => Cuatro
+Five => Cinco
+Six => Seis
+Seven => Siete
+Eight => Ocho
+Nine => Nueve
+Ten => Diez
