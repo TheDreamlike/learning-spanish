@@ -28,3 +28,5 @@
 8. Eight => Ocho
 9. Nine => Nueve
 10. Ten => Diez
+11. Hundred => cien
+12. Two Hundred => doscientos
