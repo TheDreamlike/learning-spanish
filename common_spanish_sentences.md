@@ -18,13 +18,13 @@
 
 # Numbers 1-10:
 
-One => Uno
-Two => Dos
-Three => Tres
-Four => Cuatro
-Five => Cinco
-Six => Seis
-Seven => Siete
-Eight => Ocho
-Nine => Nueve
-Ten => Diez
+1. One => Uno
+2. Two => Dos
+3. Three => Tres
+4. Four => Cuatro
+5. Five => Cinco
+6. Six => Seis
+7. Seven => Siete
+8. Eight => Ocho
+9. Nine => Nueve
+10. Ten => Diez
