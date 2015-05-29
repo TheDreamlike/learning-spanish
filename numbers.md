@@ -1,4 +1,4 @@
-# Numbers 1-10:
+# Numbers :
 
 1. One => Uno
 2. Two => Dos
