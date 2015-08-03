@@ -10,5 +10,5 @@
 8. Aug => Agosto
 9. Sep => Septiembre
 10. Oct => Octubre
-11. Nov => Novembre
+11. Nov => Novimbre
 12. Dec => Diciembre
